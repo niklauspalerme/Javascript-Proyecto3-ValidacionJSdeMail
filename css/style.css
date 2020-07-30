@@ -1,0 +1,53 @@
+.header1 {
+  background-color: black;
+  padding-top: 50px;
+}
+
+.section-nico {
+  margin: 35px;
+}
+
+.btn-nico {
+  background-color: black;
+  border-color: gray;
+}
+
+.btn-nico:hover {
+  background-color: gray;
+  border-color: gray;
+}
+
+.card-nico {
+  margin-bottom: 20px;
+}
+
+ul.navbar-nav li.nav-item a.nav-link.btn-carrito {
+  color: #dc3545;
+}
+
+ul.navbar-nav li.nav-item a.nav-link.btn-carrito:hover {
+  color: #e38d96;
+}
+
+.img-thumbnail {
+  width: 150px;
+}
+
+.form-nico {
+  background-color: white;
+  box-shadow: 2px 2px 5px #999;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+.form-img {
+  text-align: center;
+}
+
+.gif {
+  padding: 25px;
+  width: 250px;
+  display: none;
+}
+
+/*display: initial*/
