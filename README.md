@@ -6,6 +6,8 @@ A esta nueva parte se le agrega un form , donde el usuario puede mandar una preg
 
 Done este form validara desde la parte de JS todo los input y una vez que la validación este OK , cargara unos gif de envio de la información
 
+![](img/asset.png)
+
 # Tecnologia 
 
 - HTML5
